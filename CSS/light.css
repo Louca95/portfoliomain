@@ -1,0 +1,61 @@
+body {
+	background-color: #edd37c;
+}
+
+div {
+	text-align: center;
+}
+#lightbulb{
+	width: 25%;
+	margin-right: 75%;
+	margin-top: -4%
+}
+#toggle-button{
+	margin-right:73% ;
+	background-color: black;
+	color: white;
+}
+
+.maison1{
+	width: 30%;
+}
+
+.maison2{
+	width: 25%;
+}
+
+.maison3{
+	width: 23%;
+    margin-bottom: -1%;
+}
+
+.loup{
+	width: 17%;
+}
+
+.fleche{
+	margin-top: 7%;
+	color: red;
+}
+
+.man{
+	margin-top: 3%;
+}
+
+.fleche1{
+	width: 5%;
+	background-color: rgb(133, 220, 20);
+}
+
+.fleche2{
+	width: 5%;
+	margin-right: 10%;
+	background-color: crimson;
+}
+
+.fleche3{
+	width: 5%;
+	margin-left: 10%;
+	background-color: crimson;
+}
+
